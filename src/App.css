@@ -1,0 +1,10 @@
+
+.modal-header{
+  background-color: #282c34;
+  color: #fff;
+}
+
+.modal-header{
+  cursor: move;
+  height: 30px;
+}
